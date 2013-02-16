@@ -23,6 +23,16 @@ Place Developer Console output in a blockquote (Press M while in your web browse
 
 *Easiest way to obtain your system information is through Steam (Help > System Information). Copy and paste all of that information into your bug report, in a blockquote.
 
+**If your game crashes*
+--------------
+
+If while playing NMRiH, you inexplicably get thrown to the desktop with an error window (hl2.exe has stopped responding), do the following:
+
+* Don't close the game until the error window gives you a prompt to close it (when the OK button appears)
+* Follow the same directions as mentioned above in **Reporting Issues** but:
+* Before you submit the issue, check your Source SDK Base 2007 folder (located in steam\steamapps\youraccount\source sdk base 2007) to see if there's a newly generated .mdmp file
+* If there is, upload and attach it to your issue ticket and then submit it
+
 **Code of Conduct**
 --------------
 
