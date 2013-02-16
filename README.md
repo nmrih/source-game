@@ -34,3 +34,8 @@ Since this will ideally be used by the public to help centralize and organize th
 * Do not repeatably update an open issue, saying that the issue persists.
 
 Reminder: NMRiH is a HL2 modification so some issues that you'll find may be common throughout various Source 2007 based mods (ex: clientregistry.blob error) or may not even be issues at all.
+
+**Feature Requests**
+--------------
+
+To a lesser extent you *can* request certain things for the team to look into, such as new entities that mappers can use to make more creative objectives. However, we'll overlook requests that are either ill-fitting for the mod's subject or just plain silly (we are not adding handheld GAU-8 Avengers or zombified animals).
