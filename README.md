@@ -10,4 +10,5 @@ The main purpose of this repository is to submit any bugs or issues present in t
 
 If you would like to report an issue you've found in the mod, please check the issue list to see if it's been reported. Include closed issues in your search.
 
-Also consult this link for preexisting issues http://www.nomoreroominhell.com/forums/index.php?s=34b750d39be6709ca38477ce3e6501c9&showforum=57
+Also consult this link for preexisting issues http://github.com - automatic!
+[GitHub](http://github.com)
