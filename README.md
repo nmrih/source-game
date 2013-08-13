@@ -1,30 +1,26 @@
-**No More Room in Hell**
-===========
+##No More Room in Hell
 
-This readme is for the Half-Life 2 Source Mod "No More Room in Hell".
+No More Room in Hell is a Half-Life 2 Source Mod. This repository is for submitting bugs and issues.
 
-The main purpose of this repository is to submit any bugs or issues present in the modification.
+##Reporting Issues
 
-**Reporting Issues**
---------------
+Please press the 'S' key to start a search for similar issues already reported. *Include closed issues in your search.*
 
-If you would like to report an issue you've found in the mod, please check the issue list to see if it's been reported. Include closed issues in your search.
+If the issue hasn't been reported yet, please feel free to submit the issue here with the following information.
 
-Also consult this [link](http://www.nomoreroominhell.com/forums/index.php?showforum=57) for preexisting issues (we'll slowly move the current issues over to this system, but feel free to help out)
+* A short title, describing the issue. e.g. "Can't use X on nms_isolated"
+* A detailed summary including
+  * What happens
+  * When does it happen
+  * Steps to reproduce the issue (How did you do it?)
+  * Screenshots
+  * Youtube fraps captures of the issue
+  * Developer Console Output (found by pressing the ` tilde key in game)
+      * Place Developer Console output in a blockquote (add a > in front of each line)
+  * And finally, if possible, system information
+      * In Steam, (Help > System Information). Copy and paste into a blockquote (add a > in front of each line).
 
-If the issue hasn't been reported yet, submit it in GitHub with the following information:
-
-* A short descriptive title
-* Detailed information of the issue (what happens if it occurs, etc.) along with any screenshots or output from the developer console (accessible in game via ` key)
-* Steps on how to reproduce the issue (How did you do it?)
-* And if possible, system information*
-
-Place Developer Console output in a blockquote (Press M while in your web browser for a cheat sheet on how to do that)
-
-*Easiest way to obtain your system information is through Steam (Help > System Information). Copy and paste all of that information into your bug report, in a blockquote.
-
-**If your game crashes*
---------------
+##If your game crashes
 
 If while playing NMRiH, you inexplicably get thrown to the desktop with an error window (hl2.exe has stopped responding), do the following:
 
@@ -35,8 +31,7 @@ If while playing NMRiH, you inexplicably get thrown to the desktop with an error
 
 Note: If you are running the Steam Build of NMRiH, the .mdmp crash files are located in steam\steamapps\common\nmrih (or steam\steamapps\common\nmrih\sdk)
 
-**Code of Conduct**
---------------
+##Code of Conduct
 
 Since this will ideally be used by the public to help centralize and organize the issues present in the mod, the team would appreciate if you can remember the following:
 
@@ -48,7 +43,6 @@ Since this will ideally be used by the public to help centralize and organize th
 
 Reminder: NMRiH is a HL2 modification so some issues that you'll find may be common throughout various Source 2007 based mods (ex: clientregistry.blob error) or may not even be issues at all.
 
-**Feature Requests**
---------------
+##Feature Requests
 
 To a lesser extent you *can* request certain things for the team to look into, such as new specific entities that mappers can use to make more creative objectives. However, we'll overlook requests that are either ill-fitting for the mod's subject or just plain silly (we are not adding handheld GAU-8 Avengers or zombified animals).
