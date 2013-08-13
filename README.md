@@ -31,7 +31,7 @@ If while playing NMRiH, you inexplicably get thrown to the desktop with an error
 * Don't close the game until the error window gives you a prompt to close it (when the OK button appears)
 * Follow the same directions as mentioned above in **Reporting Issues** but:
 * Before you submit the issue, check your Source SDK Base 2007 folder (located in steam\steamapps\youraccount\source sdk base 2007) to see if there's a newly generated .mdmp file
-* If there is, upload and attach it to your issue ticket and then submit it
+* If there is an .mdmp file, upload and attach it to your issue ticket and then submit it
 
 Note: If you are running the Steam Build of NMRiH, the .mdmp crash files are located in steam\steamapps\common\nmrih (or steam\steamapps\common\nmrih\sdk)
 
