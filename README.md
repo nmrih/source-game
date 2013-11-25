@@ -30,6 +30,8 @@ If while playing NMRiH, you inexplicably get thrown to the desktop with an error
 * Before you submit the issue, check your Dumps folder (located in steam\dumps) to see if there's a newly generated .mdmp file (They normally look like "crash_hl2.exe248123_1.dmp")
 * If there is an .mdmp file, upload and attach it to your issue ticket and then submit it
 
+If you use Linux, your Steam folder is located in your Home folder (as a hidden file, and if you use a Ubuntu based Distro). If you use Mac, your Steam folder's located in / Users / YOURACCOUNTNAME / Library / Application Support.
+
 ##Code of Conduct
 
 Since this will ideally be used by the public to help centralize and organize the issues present in the mod, the team would appreciate if you can remember the following:
