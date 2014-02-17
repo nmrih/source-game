@@ -30,7 +30,17 @@ If while playing NMRiH, you inexplicably get thrown to the desktop with an error
 * Before you submit the issue, check your Dumps folder (located in steam\dumps) to see if there's a newly generated .mdmp file (They normally look like "crash_hl2.exe248123_1.dmp")
 * If there is an .mdmp file, upload and attach it to your issue ticket and then submit it
 
-If you use Linux or Mac, your crash files should appear in /tmp/dumps (if that's not right please let us know)
+If you use Linux or Mac and your game crashes, please check the Steam System Information window (Steam > Help > System Information) to see if an error has been reported in the output window. If there is one, the report will also list out a location where it will generate a crash file, generally located in /tmp/dumps.
+
+For Ubuntu Linux users (or anyone using Unity/Gnome): 
+* Open up your File manager (the File Cabinet icon on the side bar).
+* Under Devices, click Computer.
+* Now double click on the tmp folder.
+* You should see a dumps folder, containing some files. Either post them in GitHub (the .mdmp files), or send an email to support@nmrih.com.
+
+For Mac users:
+* Open up Finder
+* Search for tmp/dumps 
 
 ##Code of Conduct
 
