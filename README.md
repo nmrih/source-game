@@ -36,7 +36,7 @@ For Ubuntu Linux users (or anyone using Unity/Gnome):
 * Open up your File manager (the File Cabinet icon on the side bar).
 * Under Devices, click Computer.
 * Now double click on the tmp folder.
-* You should see a dumps folder, containing some files. Either post them in GitHub (the .mdmp files), or send an email to support@nmrih.com.
+* You should see a dumps folder, containing some files. Either post them in GitHub (the .mdmp files), or send an email to support@nmrih.com
 
 For Mac users:
 * Open up Finder
