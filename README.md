@@ -17,7 +17,7 @@ If the issue hasn't been reported yet, please feel free to submit the issue here
   * Screenshots
   * Youtube fraps captures of the issue
   * Developer Console Output (found by pressing the ` tilde key in game)
-      * Place Developer Console output in a blockquote (add a > in front of each line)
+      * Place Developer Console output in a blockquote (add a ` tilde at the beginning and end of the paste)
   * And finally, if possible, system information
       * In Steam, (Help > System Information). Copy and paste into a blockquote (add a > in front of each line).
 
