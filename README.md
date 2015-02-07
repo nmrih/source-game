@@ -4,6 +4,8 @@ No More Room in Hell is a Half-Life 2 Source Mod. This repository is for submitt
 
 ##Reporting Issues
 
+To begin submitting issues, look at the right hand side of this page, and click ISSUES. Then click the green NEW ISSUE button. You must have a GitHub account in order to start posting them.
+
 Please press the 'S' key to start a search for similar issues already reported. *Include closed issues in your search.*
 
 If the issue hasn't been reported yet, please feel free to submit the issue here with the following information.
