@@ -1,9 +1,9 @@
-##No More Room in Hell
-
+No More Room in Hell
+=========
 No More Room in Hell is a Half-Life 2 Source Mod. This repository is for submitting bugs and issues. If you have a more general problem (ex: I don't know how to play this game), [click here to go to our Help & Support forum](http://www.nomoreroominhell.com/forums/index.php?showforum=57).
 
-##Reporting Issues
-
+Reporting Issues
+-------
 To begin submitting issues, look at the right hand side of this page, and click ISSUES. Then click the green NEW ISSUE button. You must have a GitHub account in order to start posting them.
 
 Please press the 'S' key to start a search for similar issues already reported. *Include closed issues in your search.*
@@ -23,8 +23,8 @@ If the issue hasn't been reported yet, please feel free to submit the issue here
   * And finally, if possible, system information
       * In Steam, (Help > System Information). Copy and paste into a blockquote (add a > in front of each line).
 
-##If your game crashes
-
+If your game crashes
+-------
 If while playing NMRiH, you inexplicably get thrown to the desktop with an error window (hl2.exe has stopped responding), do the following:
 
 * Don't close the game until the error window gives you a prompt to close it (when the OK button appears)
@@ -44,8 +44,8 @@ For Mac users:
 * Open up Finder
 * Search for tmp/dumps 
 
-##Code of Conduct
-
+Code of Conduct
+-------
 Since this will ideally be used by the public to help centralize and organize the issues present in the mod, the team would appreciate if you can remember the following:
 
 * Do not insult, harass, or demean anyone.
@@ -56,6 +56,6 @@ Since this will ideally be used by the public to help centralize and organize th
 
 Reminder: NMRiH is a HL2 modification so some issues that you'll find may be common throughout various Source 2007 based mods (ex: clientregistry.blob error) or may not even be issues at all.
 
-##Feature Requests
-
+Feature Requests
+-------
 To a lesser extent you *can* request certain things for the team to look into, such as new specific entities that mappers can use to make more creative objectives. However, we'll overlook requests that are either ill-fitting for the mod's subject or just plain silly (we are not adding handheld GAU-8 Avengers or zombified animals).
