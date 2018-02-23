@@ -12,7 +12,7 @@ If the issue hasn't been reported yet, please feel free to submit the issue here
 
 * A short title, describing the issue. e.g. "Can't use X on nms_isolated"
 * A detailed summary including
-  * Version (Steam Closed Beta / 1.06 / Desura)
+  * Version (Steam/Steam Beta)
   * What happens
   * When does it happen
   * Steps to reproduce the issue (How did you do it?)
