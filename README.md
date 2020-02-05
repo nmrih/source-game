@@ -1,6 +1,6 @@
 No More Room in Hell
 =========
-No More Room in Hell is a Half-Life 2 Source Mod. This repository is for submitting bugs and issues. If you have a more general problem (ex: I don't know how to play this game), [click here to go to our Help & Support forum](https://steamcommunity.com/app/224260/discussions/2/).
+No More Room in Hell is a Half-Life 2 Source Mod. This repository is for submitting bugs and issues. If you have a more general problem (ex: I don't know how to play this game), [click here to go to our Steam discussions](https://steamcommunity.com/app/224260/discussions/0/).
 
 Reporting Issues
 -------
