@@ -25,11 +25,11 @@ If the issue hasn't been reported yet, please feel free to submit the issue here
 
 If your game crashes
 -------
-If while playing NMRiH, you inexplicably get thrown to the desktop with an error window (hl2.exe has stopped responding), do the following:
+If while playing NMRiH, you inexplicably get thrown to the desktop with an error window (nmrih.exe has stopped responding), do the following:
 
 * Don't close the game until the error window gives you a prompt to close it (when the OK button appears)
 * Follow the same directions as mentioned above in **Reporting Issues** but:
-* Before you submit the issue, check your Dumps folder (located in steam\dumps) to see if there's a newly generated .mdmp file (They normally look like "crash_hl2.exe248123_1.dmp")
+* Before you submit the issue, check your Dumps folder (located in steam\dumps) to see if there's a newly generated .mdmp file (They normally look like "crash_nmrih.exe248123_1.dmp")
 * If there is an .mdmp file, upload and attach it to your issue ticket and then submit it
 
 If you use Linux or Mac and your game crashes, please check the Steam System Information window (Steam > Help > System Information) to see if an error has been reported in the output window. If there is one, the report will also list out a location where it will generate a crash file, generally located in /tmp/dumps.
