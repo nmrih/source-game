@@ -50,7 +50,7 @@ Since this will ideally be used by the public to help centralize and organize th
 * Do not repeatably update an open issue, saying that the issue persists.
 * Do not use exploits for your own gain, this tracker is up in goodwill to allow the public to help the dev team out with bug reporting.
 
-Reminder: NMRiH is a HL2 modification so some issues that you'll find may be common throughout various Source 2007 based mods (ex: clientregistry.blob error) or may not even be issues at all.
+Reminder: NMRiH is a HL2 modification so some issues that you'll find may be common throughout various Source SDK based mods or may not even be issues at all.
 
 Feature Requests
 -------
