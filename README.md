@@ -17,7 +17,7 @@ If the issue hasn't been reported yet, please feel free to submit the issue here
   * When does it happen
   * Steps to reproduce the issue (How did you do it?)
   * Screenshots
-  * Youtube fraps captures of the issue
+  * Video captures of the issue
   * Developer Console Output (found by pressing the ` tilde key in game)
       * Place Developer Console output in a blockquote (add a ` tilde at the beginning and end of the paste)
   * And finally, if possible, system information
@@ -32,17 +32,13 @@ If while playing NMRiH, you inexplicably get thrown to the desktop with an error
 * Before you submit the issue, check your Dumps folder (located in steam\dumps) to see if there's a newly generated .mdmp file (They normally look like "crash_nmrih.exe248123_1.dmp")
 * If there is an .mdmp file, upload and attach it to your issue ticket and then submit it
 
-If you use Linux or Mac and your game crashes, please check the Steam System Information window (Steam > Help > System Information) to see if an error has been reported in the output window. If there is one, the report will also list out a location where it will generate a crash file, generally located in /tmp/dumps.
+If you use Linux and your game crashes, please check the Steam System Information window (Steam > Help > System Information) to see if an error has been reported in the output window. If there is one, the report will also list out a location where it will generate a crash file, generally located in /tmp/dumps.
 
-For Ubuntu Linux users (or anyone using Unity/Gnome): 
+For Ubuntu Linux users (or anyone using Unity/GNOME): 
 * Open up your File manager (the File Cabinet icon on the side bar).
 * Under Devices, click Computer.
 * Now double click on the tmp folder.
-* You should see a dumps folder, containing some files. Either post them in GitHub (the .mdmp files), or send an email to support@nmrih.com with the files attached.
-
-For Mac users:
-* Open up Finder
-* Search for tmp/dumps 
+* You should see a dumps folder, containing some files. Post the .mdmp files in GitHub.
 
 Code of Conduct
 -------
