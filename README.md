@@ -1,3 +1,10 @@
+Please note
+=========
+
+This issue tracker is for the first game on Source engine. NMRiH1 maintainers aren't able to respond to NMRiH2 inquiries.
+
+For NMRiH2 bug reports and requests, [click here](http://nmrih2.com/support).
+
 No More Room in Hell
 =========
 No More Room in Hell is a Half-Life 2 Source Mod. This repository is for submitting bugs and issues. If you have a more general problem (ex: I don't know how to play this game), [click here to go to our Steam discussions](https://steamcommunity.com/app/224260/discussions/0/).
