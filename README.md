@@ -1,9 +1,7 @@
 Please note
 =========
 
-This issue tracker is for the first game on Source engine. NMRiH1 maintainers aren't able to respond to NMRiH2 inquiries.
-
-For NMRiH2 bug reports and requests, [click here](http://nmrih2.com/support).
+This issue tracker is for the first game on Source engine. For NMRiH2 bug reports and requests, [click here](http://nmrih2.com/support).
 
 No More Room in Hell
 =========
