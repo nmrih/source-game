@@ -5,7 +5,7 @@ This issue tracker is for the first game on Source engine. For NMRiH2 bug report
 
 No More Room in Hell
 =========
-No More Room in Hell is a Half-Life 2 Source Mod. This repository is for submitting bugs and issues. If you have a more general problem (ex: I don't know how to play this game), [click here to go to our Steam discussions](https://steamcommunity.com/app/224260/discussions/0/).
+No More Room in Hell is a standalone Source Engine Mod. This repository is for submitting bugs, issues, and feature requests. If you have a more general problem (e.g. "I don't know how to play this game"), [click here to go to our Steam discussions](https://steamcommunity.com/app/224260/discussions/0/).
 
 Reporting Issues
 -------
@@ -15,14 +15,15 @@ Please press the 'S' key to start a search for similar issues already reported. 
 
 If the issue hasn't been reported yet, please feel free to submit the issue here with the following information.
 
-* A short title, describing the issue. e.g. "Can't use X on nms_isolated"
-* A detailed summary including
-  * Version (Steam/Steam Beta)
+* A short title, with a version prefix, describing the issue. e.g. "[public-1.15.0] Can't use X on nms_isolated"
+* A detailed summary including:
+  * Version (visible on the top-left corner of the main menu)
   * What happens
   * When does it happen
-  * Steps to reproduce the issue (How did you do it?)
+  * Steps to reproduce the issue (i.e. how did you do it?)
   * Screenshots
   * Video captures of the issue
+  * Installed add-ons that may have caused the issue
   * Developer Console Output (found by pressing the ` tilde key in game)
       * Place Developer Console output in a blockquote (add a ` tilde at the beginning and end of the paste)
   * And finally, if possible, system information
@@ -30,12 +31,14 @@ If the issue hasn't been reported yet, please feel free to submit the issue here
 
 If your game crashes
 -------
+**PRIVACY NOTICE:** Crash logs may contain personal information, it's not recommended to publicly share dump files. If you're a server owner, we recommend installing [Accelerator](https://forums.alliedmods.net/showthread.php?t=277703), you can discreetly share crash logs with its [Throttle](https://crash.limetech.org/) frontend.
+
 If while playing NMRiH, you inexplicably get thrown to the desktop with an error window (nmrih.exe has stopped responding), do the following:
 
 * Don't close the game until the error window gives you a prompt to close it (when the OK button appears)
 * Follow the same directions as mentioned above in **Reporting Issues** but:
-* Before you submit the issue, check your Dumps folder (located in steam\dumps) to see if there's a newly generated .mdmp file (They normally look like "crash_nmrih.exe248123_1.dmp")
-* If there is an .mdmp file, upload and attach it to your issue ticket and then submit it
+* Before you submit the issue, check your Dumps folder (located in steam\dumps) to see if there's a newly generated .dmp file (They normally look like "crash_nmrih.exe248123_1.dmp")
+* If there is an .dmp file, upload and attach it to your issue ticket and then submit it
 
 If you use Linux and your game crashes, please check the Steam System Information window (Steam > Help > System Information) to see if an error has been reported in the output window. If there is one, the report will also list out a location where it will generate a crash file, generally located in /tmp/dumps.
 
@@ -53,9 +56,7 @@ Since this will ideally be used by the public to help centralize and organize th
 * Do not intentionally multi-post an issue.
 * Avoid using ALL CAPS when creating an issue report.
 * Do not repeatably update an open issue, saying that the issue persists.
-* Do not use exploits for your own gain, this tracker is up in goodwill to allow the public to help the dev team out with bug reporting.
-
-Reminder: NMRiH is a HL2 modification so some issues that you'll find may be common throughout various Source SDK based mods or may not even be issues at all.
+* Do not use exploits for your own gain, this tracker is up in goodwill to allow the public to help the developers with bug reporting.
 
 Feature Requests
 -------
