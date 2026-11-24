@@ -5,7 +5,7 @@ This issue tracker is for the first game on Source engine. For NMRiH2 bug report
 
 No More Room in Hell
 =========
-No More Room in Hell is a standalone Source Engine Mod. This repository is for submitting bugs, issues, and feature requests. If you have a more general problem (e.g. "I don't know how to play this game"), [click here to go to our Steam discussions](https://steamcommunity.com/app/224260/discussions/0/).
+No More Room in Hell is a Source Engine Mod. This repository is for submitting bugs, issues, and feature requests. If you have a more general problem (e.g. "I don't know how to play this game"), [click here to go to our Steam discussions](https://steamcommunity.com/app/224260/discussions/0/).
 
 Reporting Issues
 -------
@@ -31,7 +31,7 @@ If the issue hasn't been reported yet, please feel free to submit the issue here
 
 If your game crashes
 -------
-**PRIVACY NOTICE:** Crash logs may contain personal information, it's not recommended to publicly share dump files. If you're a server owner, we recommend installing [Accelerator](https://forums.alliedmods.net/showthread.php?t=277703), you can discreetly share crash logs with its [Throttle](https://crash.limetech.org/) frontend.
+**PRIVACY NOTICE:** Crash logs may contain personal information, be cautious about uploading the dump files. If you're a server owner, we recommend installing [Accelerator](https://forums.alliedmods.net/showthread.php?t=277703), you can discreetly share crash logs with its [Throttle](https://crash.limetech.org/) web interface.
 
 If while playing NMRiH, you inexplicably get thrown to the desktop with an error window (nmrih.exe has stopped responding), do the following:
 
